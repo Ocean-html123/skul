@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman';
+}
+.top-bar {
+    display: flex;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    top: 10px;
+}
+.home {
+    word-spacing: 1rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
+.home a {
+    text-decoration: none;
+    color: red;
+}
+.bar {
+    margin: 3rem;
+}
+.process {
+    padding: 3rem;
+    margin-top: 2rem;
+}
+h1 {
+    font-weight: 900;
+    padding: 1rem;
+}
+p {
+    margin: 2rem;
+    font-size: 1.3rem;
+}
+ul {
+    padding-left: 4rem;
+    font-size: 1.3rem;
+    color: rgb(110, 235, 110);
+}
+a button {
+    margin-top: 0.5rem;
+}
+.contact-section {
+    display: flex;
+    background-color: black;
+    padding: 0 9rem;
+}
+h3 {
+    margin: 2rem 0;
+    color: white;
+}
+li {
+    margin-bottom: 1rem;   
+}
+a {
+    color: green;
+}
+.home a {
+    text-decoration: none;
+    color: red;
+}
+.suscribe p {
+    color: white;
+    margin: 2rem;
+}
+.suscribe {
+    padding-left: 19rem;
+}
+input.btn {
+    margin-bottom: 1rem;
+    padding: 1rem 1rem;
+    box-shadow: 2px 2px 2px 2px rgb(209, 179, 179);
+}
+.suscribe a button {
+    background-color: green;
+    padding: 1rem 6rem;
+    color: white;
+}
+a:hover {
+    color: rgb(128, 119, 0);
+}
+.suscribe a button:hover {
+    background-color: blue;
+    color:  rgb(27, 2, 2);
+}
+a button {
+    padding: 1rem 1rem;
+    background-color:rgb(26, 243, 26);
+}
+a button:hover {
+    background-color: blue;
+    color:  rgb(27, 2, 2);
+}
+input.btn {
+    padding: 1rem 1rem;
+}
+h3 {
+    padding-left: 3.5rem;
+}
+.green {
+    color: black;
+}
